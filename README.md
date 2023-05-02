@@ -1,0 +1,2 @@
+# MADProject
+NewsApplicationCode
